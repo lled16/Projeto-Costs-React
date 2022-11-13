@@ -1,48 +1,26 @@
 {
   "projects": [
     {
-      "name": "Teste 1",
-      "budget": "22222",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Teste",
-      "budget": "34444",
+      "name": "Teste Exclusão",
+      "budget": "5000",
       "category": {
         "id": "3",
         "name": "Design"
       },
       "cost": 0,
       "services": [],
-      "id": 2
+      "id": 1
     },
     {
-      "name": "Meia noite",
-      "budget": "2333",
+      "name": "projeto 2",
+      "budget": "56505",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 3
-    },
-    {
-      "name": "2 da manha",
-      "budget": "4555",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
+      "id": 2
     }
   ],
   "categories": [
