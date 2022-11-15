@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "name": "Teste Exclusão",
-      "budget": "5000",
+      "name": "Teste Edição",
+      "budget": "5500",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
